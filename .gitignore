@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated files
+*.wav
+*.npy
+simple_tts_model.pth
+
+# IDE / Editor specific
+.vscode/
+.idea/ 
